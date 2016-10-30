@@ -1,3 +1,7 @@
 Hello World
+<<<<<<< HEAD
 Added a line
 test2
+=======
+Try test1
+>>>>>>> test1
